@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 875442a36de58ec428bea761542e9f10, type: 3}
+  m_Name: BigEnemy
+  m_EditorClassIdentifier: 
+  EnemyType: 2
+  EnemyName: Big
+  ChaseRange: 15
+  ShootRange: 10
+  CountDownBetweenFire: 3
+  FireRate: 1
+  Target: {fileID: 3954099212402556337, guid: 45bd52372b46ac146a18a5fe914a64ab, type: 3}
+  Health: 50
+  wayPoints:
+  - {fileID: 2745065446479094134, guid: 4ba156142e9a5a5448367fe026fa444e, type: 3}
+  - {fileID: 1501921813105559110, guid: cb50b2b6e120d9b48a455d154c0385d2, type: 3}
+  - {fileID: 8414483318762561127, guid: 9ff0c75467c890a4fb53cb4907163728, type: 3}
+  - {fileID: 8580302573464305510, guid: 68fb6821c8426de42bce28a4c63a9bc8, type: 3}
