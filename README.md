@@ -11,9 +11,9 @@ Occlusion Culling
 ___
 # Screenshots
 ___
-![screenshot](/Screenshots/1.png)
+![screenshot](/Screnshots/1.png)
 ___
-![screenshot](/Screenshots/2.png)
+![screenshot](/Screnshots/2.png)
 ___
-![screenshot](/Screenshots/3.png)
+![screenshot](/Screnshots/3.png)
  
